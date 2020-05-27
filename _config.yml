@@ -12,7 +12,7 @@ author: Adeel Akram
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: ""
   Skills: "skills"
   Projects: "projects"
   Achievements: "achievements"
