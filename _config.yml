@@ -13,9 +13,9 @@ author: Adeel Akram
 
 navbar-links:
   About Me: ""
-  Skills: "skills"
-  Projects: "projects"
-  Achievements: "achievements"
+  Skills: "skills/"
+  Projects: "projects/"
+  Achievements: "achievements/"
 
 # --- Logo --- #
 
