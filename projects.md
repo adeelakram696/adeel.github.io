@@ -6,9 +6,8 @@ subtitle: Here's what I have been doing with my life
 <br/>
 
 ----
-### TeleHealth COVID-19 - [April 20 – May 20]
+### [TeleHealth COVID-19](https://telehealth.gov.pk/) - [April 20 – May 20]
 ----
-[https://telehealth.gov.pk/](https://telehealth.gov.pk/)
 ###### REACT/REDUX, ExpressJS, POSTGRES
 - Telehealth Portal provides an easy, safe and secure way to connect with your doctor if you think you have COVID-19 symptoms.
 - Leading the team of 4+ developers
@@ -19,9 +18,8 @@ subtitle: Here's what I have been doing with my life
 <br/>
 
 ----
-### JULY- SHOPIFY - [February 20 – March 20]
+### [JULY- SHOPIFY](https://july.ac) - [February 20 – March 20]
 ----
-[https://july.ac](https://july.ac)
 ###### REACT/REDUX, ExpressJS, POSTGRES, Shopify
 - Presale website to sale the windows A/C for the heritage buildings with particular requirements.
 - Leading the team of 2 developers
