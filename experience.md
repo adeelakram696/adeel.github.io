@@ -8,7 +8,11 @@ subtitle: Where i have been in past
   <h3>Venturedive Pvt ltd</h3>
 </div>
 ---
-- Venturedive, world-class technology company that has developed a strong foothold in Europe, USA and Middle East by delivering cutting edge tech solutions to business giants like Careem, VistaJet, etc. with a workforce of 300+ employees
+<div class="text-center">
+  <p>
+    Venturedive, world-class technology company that has developed a strong foothold in Europe, USA and Middle East by delivering cutting edge tech solutions to business giants like Careem, VistaJet, etc. with a workforce of 300+ employees
+  </p>
+ <div>
 
 ##### Lead Software Engineer
 ###### [July 1, 2018 - Present]
@@ -42,7 +46,11 @@ with QA and project delivery team
   <h3>GoodCore Software Inc.</h3>
 </div>
 ---
-- GoodCore Software, a modern software company providing cost effective IT outsourcing options to elite clientele by demonstrating vivid expertise in .NET, PHP, Ruby on Rails, Wordpress, Android, IPhone & Facebook apps.
+<div class="text-center">
+  <p>
+    GoodCore Software, a modern software company providing cost effective IT outsourcing options to elite clientele by demonstrating vivid expertise in .NET, PHP, Ruby on Rails, Wordpress, Android, IPhone & Facebook apps.
+  </p>
+  </div>
 
 ##### Software Engineer
 ###### [August 5, 2013 – April 1, 2016]
