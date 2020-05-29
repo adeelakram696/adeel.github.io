@@ -30,7 +30,8 @@ subtitle: Here's what I have been doing with my life
 <br/>
 
 ----
-### <a href="https://switch-admin.com/admin" target="_blank">SWITCH N CO ADMIN</a> - [June 20 – January 20]
+### <a href="https://switch-admin.com/admin" target="_blank">SWITCH N CO ADMIN</a>
+##### [June 20 – January 20]
 ----
 ###### Ruby on Rails, JQuery
 - Admin portal to manage all the bookings and promotions as well as vendors profiles who provide activities and events.
@@ -38,7 +39,8 @@ subtitle: Here's what I have been doing with my life
 <br/>
 
 ----
-### <a href="https://www.vistajet.com" target="_blank">VISTAJET WEB REVAMP</a> - [January 19 – June 19]
+### <a href="https://www.vistajet.com" target="_blank">VISTAJET WEB REVAMP</a>
+##### [January 19 – June 19]
 ----
 ###### ReactJS, Redux, EPI-SERVER, Jest
 - Using ReactJS, Redux with EPISERVER(CMS) to build multiple functional blocks and static website for easy to manageable by client.
@@ -48,7 +50,8 @@ subtitle: Here's what I have been doing with my life
 <br/>
 
 ----
-### <a href="https://web.vistajet.com" target="_blank">VISTAJET GV ITINERARY MODULE</a> - [July 18 – January 19]
+### <a href="https://web.vistajet.com" target="_blank">VISTAJET GV ITINERARY MODULE</a>
+##### [July 18 – January 19]
 ----
 ###### ReactJS, Redux, GraphQL, Jest
 - A module that helps team to manage itinerary request and responds on it. send updates to customer.
@@ -58,7 +61,8 @@ subtitle: Here's what I have been doing with my life
 <br/>
 
 ----
-### <a href="https://my.vistajet.com" target="_blank">VISTAJET CUSTOMER PORTAL</a> - [April 16 – June 18]
+### <a href="https://my.vistajet.com" target="_blank">VISTAJET CUSTOMER PORTAL</a>
+##### [April 16 – June 18]
 ----
 ###### ReactJS, AltJS
 - Customers facing website from they can book and manage their itineraries and schedules.
@@ -67,7 +71,8 @@ subtitle: Here's what I have been doing with my life
 <br/>
 
 ----
-### <a href="https://www.spip.gov.my/" target="_blank">TOURISM INDUSTRY LICENSING SYSTEM SPIP-MOTAC</a> - [March 15 – March 16]
+### <a href="https://www.spip.gov.my/" target="_blank">TOURISM INDUSTRY LICENSING SYSTEM SPIP-MOTAC</a>
+##### [March 15 – March 16]
 ----
 ###### PHP, Zend PHP, MySQL
 - Tourism Licensing System (SPIP) is a leading ICT system of the Ministry of Tourism
@@ -77,7 +82,8 @@ Goodcore team is intended to solve the new business workflow requirements and en
 <br/>
 
 ----
-### VIBRANT NEWS BOD – On Site Malaysia - [February 15 – March 15]
+### VIBRANT NEWS BOD – On Site Malaysia
+##### [February 15 – March 15]
 ----
 ###### Javascript, PhoneGap (Android/IOS)
 - Enterprise Internal application for their Board of Directors to let them update with news and events. All work done at Client side Malaysia.
@@ -85,7 +91,8 @@ Goodcore team is intended to solve the new business workflow requirements and en
 <br/>
 
 ----
-### iPOS – On Site Malaysia - [January 15 – February 15]
+### iPOS – On Site Malaysia
+##### [January 15 – February 15]
 ----
 ###### Javascript, PhoneGap (Android/IOS)
 - Enterprise Internal application for their Employees to let them update with news and events. All work done at Client side Malaysia.
@@ -94,7 +101,8 @@ Goodcore team is intended to solve the new business workflow requirements and en
 
 
 ----
-### VIBRANT NEWS – On Site Malaysia - [November 14 – January 15]
+### VIBRANT NEWS – On Site Malaysia
+##### [November 14 – January 15]
 ----
 ###### Javascript, PhoneGap (Android/IOS)
 - Enterprise Internal application for their Employees to let them update with news and events. All work done at Client side Malaysia.
@@ -103,7 +111,8 @@ Goodcore team is intended to solve the new business workflow requirements and en
 
 
 ----
-### <a href="http://relacs.sirva.com" target="_blank">INHOUSE RELOCATION –SIRVA - GERMANY</a>  - [October 16 – October 14]
+### <a href="http://relacs.sirva.com" target="_blank">INHOUSE RELOCATION –SIRVA - GERMANY</a>
+##### [October 16 – October 14]
 ----
 ###### PHP, Yii 1 MVC, MySQL
 - In House Relocation is the partner for International HR when it comes to visa and work permit process, Relocation Services, Consulting, Human Resources Management and Lean management and the implementation of international staff relocations.
@@ -112,7 +121,8 @@ Goodcore team is intended to solve the new business workflow requirements and en
 
 
 ----
-### GEMINI CLUB NETWORK GCN- UK  - [March 14 – October 14]
+### GEMINI CLUB NETWORK GCN- UK
+##### [March 14 – October 14]
 ----
 ###### PHP, Yii 1 MVC, MySQL
 - There are many of Gemini Club Network Sites of the individual clubs in which I create some WordPress Plugins for integration of members and single sign-on.
@@ -121,7 +131,8 @@ Goodcore team is intended to solve the new business workflow requirements and en
 
 
 ----
-### <a href="http://golfopenevents.co.uk/" target="_blank">OPEN BOOKING MODULE OBM- UK</a>  - [April 14 – September 14]
+### <a href="http://golfopenevents.co.uk/" target="_blank">OPEN BOOKING MODULE OBM- UK</a>
+##### [April 14 – September 14]
 ----
 ###### PHP, Yii 1 MVC, MySQL
 - Golf event module system where clubs can be created and time sheets for golfer and they can book the time by paying it online.
@@ -130,7 +141,8 @@ Goodcore team is intended to solve the new business workflow requirements and en
 
 
 ----
-### GOLF REGISTRATION SCHEME GUW - UK  - [April 14 – September 14]
+### GOLF REGISTRATION SCHEME GUW - UK
+##### [April 14 – September 14]
 ----
 ###### PHP, Yii 1 MVC, MySQL
 - The Golf Union of Wales (GUW) Golfer Registration Scheme has been developed to create a universal and unique ID for all golfers, member and non-member, so that you will be easily recognized across all golf clubs in Wales.
