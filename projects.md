@@ -8,10 +8,10 @@ subtitle: List of the Projects i have worked on
 ----
 <div class="text-center">
   <h3><a href="https://telehealth.gov.pk" target="_blank">TELEHEALTH COVID-19</a></h3>
-  <p>[April 20 – May 20]</p>
+  <div>[April 20 – May 20]</div>
+  <div>REACT/REDUX, ExpressJS, POSTGRES</div>
 </div>
 ----
-###### REACT/REDUX, ExpressJS, POSTGRES
 - Telehealth Portal provides an easy, safe and secure way to connect with your doctor if you think you have COVID-19 symptoms.
 - Leading the team of 4+ developers
 - Built a portal to connect patients with doctors and admin panel
