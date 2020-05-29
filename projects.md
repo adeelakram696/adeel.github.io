@@ -63,3 +63,74 @@ subtitle: Here's what I have been doing with my life
 - Started as a developer then became a lead of 4+ developers.
 
 <br/>
+
+----
+### <a href="https://www.spip.gov.my/" target="_blank">TOURISM INDUSTRY LICENSING SYSTEM SPIP-MOTAC</a> - [March 15 – March 16]
+----
+###### PHP, Zend PHP, MySQL
+- Tourism Licensing System (SPIP) is a leading ICT system of the Ministry of Tourism
+It is a medium that allows business licensing for tourism sectors conducted through an online portal. It aims to improve the quality and efficiency of services delivered to customers and streamlines work processes in order to make it more rapid and efficient.
+Goodcore team is intended to solve the new business workflow requirements and enhancement to the system.
+
+<br/>
+
+----
+### VIBRANT NEWS BOD – On Site Malaysia - [February 15 – March 15]
+----
+###### Javascript, PhoneGap (Android/IOS)
+- Enterprise Internal application for their Board of Directors to let them update with news and events. All work done at Client side Malaysia.
+
+<br/>
+
+----
+### iPOS – On Site Malaysia - [January 15 – February 15]
+----
+###### Javascript, PhoneGap (Android/IOS)
+- Enterprise Internal application for their Employees to let them update with news and events. All work done at Client side Malaysia.
+
+<br/>
+
+
+----
+### VIBRANT NEWS – On Site Malaysia - [November 14 – January 15]
+----
+###### Javascript, PhoneGap (Android/IOS)
+- Enterprise Internal application for their Employees to let them update with news and events. All work done at Client side Malaysia.
+
+<br/>
+
+
+----
+### <a href="http://relacs.sirva.com" target="_blank">INHOUSE RELOCATION –SIRVA - GERMANY</a>  - [October 16 – October 14]
+----
+###### PHP, Yii 1 MVC, MySQL
+- In House Relocation is the partner for International HR when it comes to visa and work permit process, Relocation Services, Consulting, Human Resources Management and Lean management and the implementation of international staff relocations.
+
+<br/>
+
+
+----
+### GEMINI CLUB NETWORK GCN- UK  - [March 14 – October 14]
+----
+###### PHP, Yii 1 MVC, MySQL
+- There are many of Gemini Club Network Sites of the individual clubs in which I create some WordPress Plugins for integration of members and single sign-on.
+
+<br/>
+
+
+----
+### <a href="http://golfopenevents.co.uk/" target="_blank">OPEN BOOKING MODULE OBM- UK</a>  - [April 14 – September 14]
+----
+###### PHP, Yii 1 MVC, MySQL
+- Golf event module system where clubs can be created and time sheets for golfer and they can book the time by paying it online.
+
+<br/>
+
+
+----
+### GOLF REGISTRATION SCHEME GUW - UK  - [April 14 – September 14]
+----
+###### PHP, Yii 1 MVC, MySQL
+- The Golf Union of Wales (GUW) Golfer Registration Scheme has been developed to create a universal and unique ID for all golfers, member and non-member, so that you will be easily recognized across all golf clubs in Wales.
+
+<br/>
