@@ -4,23 +4,23 @@ title: Skills
 subtitle: What i know so far
 ---
 
-### Languages
+##### Languages
 - Javascript
 - PHP
 
-### FrontEnd
+##### FrontEnd
 - ReactJS
 - ReduxJS
 
-### Backend
+##### Backend
 - ExpressJS (NodeJS)
 - GraphQL
 
-### Database
+##### Database
 - MySql
 - Postgres
 
-### Styling
+##### Styling
 - CSS/SCSS
 - Material React
 - Ant Design React
@@ -28,9 +28,9 @@ subtitle: What i know so far
 ### Ecommerce
 - OpenCart
 
-### CMS
+##### CMS
 - Wordpress
 
-### Unit Testing
+##### Unit Testing
 - Jest
 - Enzyme
