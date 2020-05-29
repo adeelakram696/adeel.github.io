@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-subtitle: Here's what I have been doing with my life
+subtitle: List of the Projects i have worked on
 ---
 <br/>
 
