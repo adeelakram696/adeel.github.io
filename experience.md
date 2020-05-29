@@ -4,7 +4,7 @@ title: Experience
 subtitle: Where i have been in past
 ---
 ---
-<h3 style="color: green"> Venturedive Pvt ltd.</h3>
+### Venturedive Pvt ltd
 ---
 - Venturedive, world-class technology company that has developed a strong foothold in Europe, USA and Middle East by delivering cutting edge tech solutions to business giants like Careem, VistaJet, etc. with a workforce of 300+ employees
 
