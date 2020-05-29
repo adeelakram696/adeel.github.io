@@ -4,7 +4,7 @@ title: Experience
 subtitle: Where i have been in past
 ---
 ---
-#### Venturedive Pvt ltd.
+### Venturedive Pvt ltd.
 ---
 - Venturedive, world-class technology company that has developed a strong foothold in Europe, USA and Middle East by delivering cutting edge tech solutions to business giants like Careem, VistaJet, etc. with a workforce of 300+ employees
 
@@ -36,7 +36,7 @@ with QA and project delivery team
 
 
 ---
-#### GoodCore Software Inc.
+### GoodCore Software Inc.
 ---
 - GoodCore Software, a modern software company providing cost effective IT outsourcing options to elite clientele by demonstrating vivid expertise in .NET, PHP, Ruby on Rails, Wordpress, Android, IPhone & Facebook apps.
 
